@@ -168,25 +168,5 @@ Use clear, short commit messages such as:
 - `Docs: update README`
 
 ---
-## Submission email template
-
-**Subject:** Submission — GoQuant Position Management Backend — Anthony Deepak
-
-```
-Hi [Instructor Name],
-
-Please find my assignment submission: GoQuant — Position Management Backend.
-
-Repository: https://github.com/anthonydeepak11-spec/goquant-position-system
-
-Notes:
-- Implemented backend in Rust using Axum and SQLx.
-- Basic APIs include: open, list, fetch, and close positions.
-
-Thanks,  
-Anthony Deepak
-```
-
----
 
 
