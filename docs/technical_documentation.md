@@ -1,5 +1,4 @@
- 
-# Technical Documentation
+ # Technical Documentation
 
 
 GoQuant — Position Management Backend
